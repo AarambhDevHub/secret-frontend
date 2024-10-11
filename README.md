@@ -23,18 +23,6 @@ Welcome to the frontend of the **Secure Secret Management System** built with **
 - Secure access using API keys
 - Responsive design for various devices
 
-## Purchase the Backend Code
-
-**Price: $50**
-
-Get full access to the complete backend code, including:
-- Implementation of the API endpoints.
-- Integration support to help you deploy and use the backend effectively.
-- Future updates and enhancements to the codebase.
-
-[**Purchase Backend Code Here!**](buymeacoffee.com/aarambhdevhub/e/315188)
-
-
 ## Demo
 
 You can view a live demo of the application [here](https://youtu.be/fUBgSMgCRVI) (if applicable).
@@ -48,7 +36,7 @@ If you’re interested in purchasing the backend code, which includes the follow
 - Versioning of secrets
 - API key access for secure operations
 
-You can purchase the backend code [here](link-to-purchase) for **$150**. Your purchase will include documentation and support for integrating with the frontend.
+You can purchase the backend code [here](buymeacoffee.com/aarambhdevhub/e/315188) for **$50**. Your purchase will include documentation and support for integrating with the frontend.
 
 ## Installation
 
