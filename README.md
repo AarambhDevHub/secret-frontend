@@ -1,5 +1,7 @@
 # Secure Secret Management System - Frontend
 
+[![Watch the video](https://img.youtube.com/vi/fUBgSMgCRVI/maxresdefault.jpg)](https://youtu.be/fUBgSMgCRVI)
+
 Welcome to the frontend of the **Secure Secret Management System** built with **SvelteKit**! This project provides a user-friendly interface for managing secrets securely, with features that include encryption methods, versioning, and API key access.
 
 ## Table of Contents
