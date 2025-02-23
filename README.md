@@ -27,17 +27,6 @@ Welcome to the frontend of the **Secure Secret Management System** built with **
 
 You can view a live demo of the application [here](https://youtu.be/fUBgSMgCRVI) (if applicable).
 
-## Purchase Backend Code
-
-If you’re interested in purchasing the backend code, which includes the following features:
-- User-specific databases
-- Central database access
-- Four types of encryption methods
-- Versioning of secrets
-- API key access for secure operations
-
-You can purchase the backend code [here](buymeacoffee.com/aarambhdevhub/e/315188) for **$50**. Your purchase will include documentation and support for integrating with the frontend.
-
 ## Installation
 
 To get started with the frontend project, follow these steps:
