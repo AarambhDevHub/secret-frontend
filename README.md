@@ -37,20 +37,25 @@ To get started with the frontend project, follow these steps:
    git clone https://github.com/AarambhDevHub/secret-frontend.git
    cd secret-frontend
    ```
+2. Create a .env file in the root of the project with the following variables:
 
-2. Install the dependencies:
+    ```
+    API_BASE_URL=http://localhost:8000/api
+    ```
+
+3. Install the dependencies:
 
     ```
     npm install
     ```
 
-3. Run the development server:
+4. Run the development server:
 
     ```
     npm run dev
     ```
 
-4. Open your browser and navigate to http://localhost:3000 to view the application.
+5. Open your browser and navigate to http://localhost:3000 to view the application.
 
 ## Usage
 Once the application is running, you can:
