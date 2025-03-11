@@ -40,7 +40,7 @@ To get started with the frontend project, follow these steps:
 2. Create a .env file in the root of the project with the following variables:
 
     ```
-    API_BASE_URL=http://localhost:8000/api
+    VITE_API_BASE_URL=http://localhost:8000/api
     ```
 
 3. Install the dependencies:
